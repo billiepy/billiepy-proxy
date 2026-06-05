@@ -1,0 +1,6 @@
+name = "billiepy-proxy"
+main = "index.js"
+compatibility_date = "2024-06-05"
+
+[observability]
+enabled = true
